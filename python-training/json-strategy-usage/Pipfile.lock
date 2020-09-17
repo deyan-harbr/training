@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "8bd0354f237cbc8aff248a720c6182b04ad59d7f2ea4cf1db4db27405c45556a"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "json-strategy": {
+            "editable": true,
+            "path": "./../json-strategy"
+        }
+    },
+    "develop": {}
+}
